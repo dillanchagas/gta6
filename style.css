@@ -6,6 +6,19 @@
     font-weight: normal;
 }
 
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
@@ -16,9 +29,10 @@ body {
 }
 
 banner {
+    display: block;
+    margin: 0 auto;
     max-width: 600px;
     padding:0;
-    margin:auto;
 }
 
 
@@ -36,6 +50,24 @@ p {
     color: #ccc;
     text-align: justify;
     margin: auto;
+    margin-bottom: 20px;
 
 
+}
+
+footer {
+    background-image: linear-gradient(to bottom, #1a24dc, #a612ab);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+footer p {
+    margin: auto;
+    font-size: 0.9em;
+    text-align: center;
 }
