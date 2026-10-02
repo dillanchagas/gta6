@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family:'Gta';
+    src: url('Fontes/pricedown/Pricedown\ Bl.otf') format('opentype');
+    font-weight: normal;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #040404;
+    margin: 0;
+    padding: 0;
+
+}
+
+banner {
+    max-width: 600px;
+    padding:0;
+    margin:auto;
+}
+
+
+h2 {font-family: 'Gta', sans-serif;
+    color: #fefcfc;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-size: 2.5em;
+    text-align: center;
+    margin: 20px;
+}
+
+p {
+    max-width: 800px;
+    line-height: 1.6;
+    color: #ccc;
+    text-align: justify;
+    margin: auto;
+
+
+}
