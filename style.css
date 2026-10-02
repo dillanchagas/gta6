@@ -6,35 +6,29 @@
     font-weight: normal;
 }
 
-*,
-*::before,
-*::after {
-    box-sizing: border-box;
-}
 
-html,
-body {
-    width: 100%;
-    max-width: 100%;
-    overflow-x: hidden;
-}
 
 body {
     font-family: Arial, sans-serif;
-    margin: 20px;
-    background-color: #040404;
-    margin: 0;
-    padding: 0;
+    margin:0px;
+    background-color: black;
+    background-image: url('imagens/Pôr\ do\ Sol\ Neon\ em\ Vice\ City\ 2.png');
+    background-repeat: no-repeat;
+    background-size: contain;
 
 }
 
-banner {
-    display: block;
-    margin: 0 auto;
-    max-width: 600px;
-    padding:0;
-}
+header {
+    font-family: 'Gta', sans-serif;
+    font-size: 2em;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 430px 0  0 0;
+    padding:0px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
 
+}
 
 h2 {font-family: 'Gta', sans-serif;
     color: #fefcfc;
