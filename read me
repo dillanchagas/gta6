@@ -1,0 +1,108 @@
+# 🎮 GTA VI — Landing Page
+
+Projeto desenvolvido como parte dos meus estudos de **HTML5 e CSS3**, com o objetivo de praticar a criação de uma página web responsiva, organizada e semanticamente estruturada.
+
+O projeto foi inspirado no universo de **Grand Theft Auto VI** e utiliza informações públicas sobre o jogo para criar uma página informativa.
+
+---
+
+## 📸 Sobre o projeto
+
+A página apresenta informações sobre GTA VI, incluindo:
+
+- Retorno a Vice City
+- Novo capítulo da franquia
+- Desenvolvimento e expectativa pelo lançamento
+- Protagonistas
+- Características do jogo
+- Data de lançamento
+- Plataformas
+- Preços em Portugal
+
+O projeto também utiliza uma imagem de fundo no cabeçalho para criar uma experiência visual inspirada no ambiente de Vice City.
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+- HTML5
+- CSS3
+
+### Conceitos praticados
+
+- HTML semântico
+- Estruturação de conteúdo com `header`, `main`, `section` e `footer`
+- CSS Flexbox
+- Responsividade
+- Media Queries
+- `@font-face`
+- Imagens de fundo
+- Gradientes
+- `clamp()` para tipografia responsiva
+- Organização e reutilização de estilos CSS
+
+---
+
+## 📱 Responsividade
+
+O projeto foi desenvolvido para se adaptar a diferentes tamanhos de tela, incluindo:
+
+- 📱 Smartphones
+- 📱 Tablets
+- 💻 Notebooks
+- 🖥️ Desktops
+
+Foram utilizadas **Media Queries** para adaptar principalmente o cabeçalho, títulos, espaçamentos e textos em telas menores.
+
+---
+
+## 🎯 Objetivo
+
+Este projeto faz parte do meu processo de aprendizagem em desenvolvimento web.
+
+O principal objetivo foi colocar em prática conceitos fundamentais de **HTML e CSS**, desenvolvendo uma página do início ao fim e corrigindo problemas de layout e responsividade durante o processo.
+
+---
+
+## 📚 O que aprendi
+
+Durante o desenvolvimento deste projeto, pratiquei principalmente:
+
+- Como estruturar uma página utilizando HTML semântico.
+- Como organizar um projeto HTML/CSS.
+- Como trabalhar com imagens de fundo.
+- Como criar layouts responsivos.
+- Como utilizar fontes externas através de `@font-face`.
+- Como utilizar Flexbox para posicionamento de elementos.
+- Como utilizar Media Queries.
+- Como evitar problemas de overflow em dispositivos móveis.
+- Como organizar o CSS por seções.
+- Como utilizar o GitHub para armazenar e versionar projetos.
+
+---
+
+## 🔎 Fontes
+
+As informações relacionadas ao lançamento, plataformas e preços foram baseadas em informações disponibilizadas por fontes oficiais.
+
+- Rockstar Games
+- PlayStation Portugal
+- Xbox Portugal
+
+---
+
+## ⚠️ Aviso
+
+Este é um **projeto de estudo e portfólio pessoal**.
+
+Grand Theft Auto, GTA VI, Vice City e demais marcas relacionadas pertencem aos seus respectivos proprietários.
+
+Este projeto não possui qualquer vínculo oficial com a Rockstar Games.
+
+---
+
+## 👨‍💻 Autor
+
+**Jonathan Chagas**
+
+Projeto desenvolvido durante meus estudos de desenvolvimento web.
